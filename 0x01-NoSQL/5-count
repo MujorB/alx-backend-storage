@@ -1,2 +1,2 @@
-// Counts the documents in the school collection.
-db.school.find().count();
+// Counts the documents in the school collection of my_db
+db.school.find().count()
