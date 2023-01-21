@@ -1,0 +1,2 @@
+// List the content of a database document collection in mongodb
+db.school.find()
